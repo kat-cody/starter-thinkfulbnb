@@ -176,3 +176,12 @@ footer p {
     flex-direction: column;
   }
 }
+
+/* -------  Media Query ------- */
+@media all and (max-width: 370px) {
+  .logo {
+    font-family: "Pangolin", cursive;
+    font-size: 50px;
+    color: #fff;
+  }
+}
